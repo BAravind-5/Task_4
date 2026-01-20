@@ -1,0 +1,11 @@
+Product_ID,Product_Name,Price,Units_Sold,Revenue,Trend_Score,Category_Label,Category_Fashion,Category_Fitness,Category_Furniture,Category_Home Appliances,Category_Stationery,Subcategory_Audio,Subcategory_Clothing,Subcategory_Footwear,Subcategory_Kitchen,Subcategory_Lighting,Subcategory_Seating,Subcategory_Wearables
+P101,Smart Watch,0.36167759506739044,-0.44292958610006106,1.6444541720030958,0.850531748566242,0,False,False,False,False,False,False,False,False,False,False,False,True
+P102,Wireless Earbuds,,-0.21728621204908657,0.09346175630076589,1.5259540194864927,0,False,False,False,False,False,True,False,False,False,False,False,False
+P103,Office Chair,1.9007311910988391,,0.6678395081122382,0.06253909915928228,3,False,False,True,False,False,False,False,False,False,False,True,False
+P104,Running Shoes,0.9772990334799699,-0.7437874181680271,1.1849519705539182,,1,True,False,False,False,False,False,False,True,False,False,False,False
+P105,LED Desk Lamp,-0.5617545625514788,-0.8942163342020101,,-0.9505943072210937,3,False,False,True,False,False,False,False,False,False,True,False,False
+P106,Blender,0.053866875861100706,-0.6685729601510355,0.09242684143263712,-0.275172036300843,4,False,False,False,True,False,False,False,False,True,False,False,False
+P107,T-Shirt,-0.9926895694402844,0.15878607803587091,-0.6562765703880828,0.28767985613269953,1,True,False,False,False,False,False,True,False,False,False,False,False
+P108,Notebook,-1.362062432487832,2.415219818545616,-1.3496695320343648,-1.7385869566280534,5,False,False,False,False,True,False,False,False,False,False,False,False
+P109,Power Bank,-0.3770681310277049,-0.5181440441170525,-0.21827760008780298,1.0756725055396583,0,False,False,False,False,False,False,False,False,False,False,False,False
+P110,Water Bottle,,0.9109306582057859,-1.4589105458924025,-0.8380239287343856,2,False,True,False,False,False,False,False,False,False,False,False,False

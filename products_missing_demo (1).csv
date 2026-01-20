@@ -1,0 +1,11 @@
+Product_ID,Product_Name,Category,Subcategory,Price,Units_Sold,Revenue,Trend_Score
+P101,Smart Watch,Electronics,Wearables,2999,1200,3598800,8.5
+P102,Wireless Earbuds,Electronics,Audio,,1500,2250000,9.1
+P103,Office Chair,Furniture,Seating,5499,,2749500,7.8
+P104,Running Shoes,Fashion,Footwear,3999,800,3199200,
+P105,LED Desk Lamp,Furniture,Lighting,1499,600,,6.9
+P106,Blender,Home Appliances,Kitchen,2499,900,2249100,7.5
+P107,T-Shirt,Fashion,Clothing,799,2000,1598000,8.0
+P108,Notebook,Stationery,,199,5000,995000,6.2
+P109,Power Bank,Electronics,Accessories,1799,1100,1978900,8.7
+P110,Water Bottle,Fitness,Accessories,,3000,900000,7.0
